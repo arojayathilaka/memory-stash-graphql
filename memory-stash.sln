@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory-stash", "memory-stash\memory-stash.csproj", "{60446D06-5DD6-4238-9D44-0748ACE02D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60446D06-5DD6-4238-9D44-0748ACE02D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60446D06-5DD6-4238-9D44-0748ACE02D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60446D06-5DD6-4238-9D44-0748ACE02D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60446D06-5DD6-4238-9D44-0748ACE02D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7ED17B0-70BB-4B98-8A8C-983FBF71DF43}
+	EndGlobalSection
+EndGlobal
